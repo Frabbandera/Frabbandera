@@ -23,9 +23,9 @@ My GitHub portfolio collects selected academic and technical projects related to
 
 | Project | Focus |
 |---|---|
-| [BlenderAcoustics](https://github.com/Frabbandera/blender-acoustics) | Blender-based room-acoustic simulation and visualisation workflow using Pyroomacoustics, RIR-derived metrics and heatmap overlays. |
 | [Vehicle Cabin Acoustics and NVH Analysis](https://github.com/Frabbandera/vehicle-cabin-acoustics-nvh) | Vehicle cabin acoustics case study combining FEM modal/forced-response analysis, ray tracing, porous-trim sensitivity, FRF/coherence analysis and order analysis. |
 | [Acoustic FEM and Helmholtz Validation](https://github.com/Frabbandera/acoustic-fem-helmholtz-validation) | Numerical validation case study for acoustic wave propagation in heterogeneous media, including Helmholtz modelling, PML boundaries and impedance mismatch. |
+| [BlenderAcoustics](https://github.com/Frabbandera/blender-acoustics) | Blender-based room-acoustic simulation and visualisation workflow using Pyroomacoustics, RIR-derived metrics and heatmap overlays. |
 
 ### Vibroacoustics, Measurements and Acoustic Data Analysis
 
