@@ -51,3 +51,4 @@ The goal is to document academic projects in a clear and technically inspectable
 
 - Email: francesco2.bandera@mail.polimi.it
 - GitHub: [github.com/Frabbandera](https://github.com/Frabbandera)
+- CV: [Francesco_Bandera_CV_Public.pdf](assets/cv/Francesco_Bandera_CV_Public.pdf)
