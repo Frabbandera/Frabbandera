@@ -19,21 +19,21 @@ My GitHub portfolio collects selected academic and technical projects related to
 
 ## Selected Projects
 
-### Acoustic Simulation and Engineering Workflows
+### Acoustic Simulation, CAE and AI-Assisted Engineering Workflows
 
 | Project | Focus |
 |---|---|
 | [Vehicle Cabin Acoustics and NVH Analysis](https://github.com/Frabbandera/vehicle-cabin-acoustics-nvh) | Vehicle cabin acoustics case study combining FEM modal/forced-response analysis, ray tracing, porous-trim sensitivity, FRF/coherence analysis and order analysis. |
 | [Acoustic FEM and Helmholtz Validation](https://github.com/Frabbandera/acoustic-fem-helmholtz-validation) | Numerical validation case study for acoustic wave propagation in heterogeneous media, including Helmholtz modelling, PML boundaries and impedance mismatch. |
+| [MedleyDB MERT Instrument Classification](https://github.com/Frabbandera/medleydb-mert-instrument-classification) | Machine-learning validation workflow for acoustic/audio data using MedleyDB, MFCC/SVM baselines, self-supervised MERT representations and multi-label robustness analysis. |
 | [BlenderAcoustics](https://github.com/Frabbandera/blender-acoustics) | Blender-based room-acoustic simulation and visualisation workflow using Pyroomacoustics, RIR-derived metrics and heatmap overlays. |
 
-### Vibroacoustics, Measurements and Acoustic Data Analysis
+### Vibroacoustics, Measurements and Acoustic Data Interpretation
 
 | Project | Focus |
 |---|---|
 | [Vibroacoustics and Sound Radiation](https://github.com/Frabbandera/vibroacoustics-sound-radiation) | Vibroacoustic modelling from string and plate vibration to sound-radiation prediction using mobility analysis and Kirchhoff–Helmholtz-based methods. |
 | [Villa Masini Room-Acoustics Measurements](https://github.com/Frabbandera/villa-masini-room-acoustics-measurements) | Room-acoustic measurement case study based on impulse responses, T30, EDT, C80 and D50 interpretation. |
-| [MedleyDB MERT Instrument Classification](https://github.com/Frabbandera/medleydb-mert-instrument-classification) | Machine-learning validation workflow for instrument recognition using MedleyDB, MFCC/SVM baselines, self-supervised MERT representations and multi-label robustness analysis. |
 
 ## Portfolio Direction
 
