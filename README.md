@@ -15,7 +15,7 @@ My GitHub portfolio collects selected academic and technical projects related to
 - Room-acoustic simulation and measurement
 - Impulse-response analysis and room-acoustic parameters
 - Machine-learning workflows for acoustic/audio data
-- Python, MATLAB, COMSOL, Blender, Pyroomacoustics, scikit-learn, PyTorch
+- Python, MATLAB, COMSOL, Pyroomacoustics, scikit-learn, PyTorch
 
 ## Selected Projects
 
