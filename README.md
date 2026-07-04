@@ -35,18 +35,6 @@ My GitHub portfolio collects selected academic and technical projects related to
 | [Vibroacoustics and Sound Radiation](https://github.com/Frabbandera/vibroacoustics-sound-radiation) | Vibroacoustic modelling from string and plate vibration to sound-radiation prediction using mobility analysis and Kirchhoff–Helmholtz-based methods. |
 | [Villa Masini Room-Acoustics Measurements](https://github.com/Frabbandera/villa-masini-room-acoustics-measurements) | Room-acoustic measurement case study based on impulse responses, T30, EDT, C80 and D50 interpretation. |
 
-## Portfolio Direction
-
-This portfolio is organised around engineering-oriented acoustic work:
-
-- simulation and validation;
-- acoustic and vibroacoustic modelling;
-- vehicle and room-acoustic analysis;
-- measurement-based interpretation;
-- reproducible data and machine-learning workflows.
-
-The goal is to document academic projects in a clear and technically inspectable way, without presenting them as commercial software or production-ready tools when they are case studies.
-
 ## Contact
 
 - Email: francesco2.bandera@mail.polimi.it
